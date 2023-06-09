@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{9D145984-801F-4591-8257-3E68BFB5C709}|Default">
-  <MonoDevelop.Ide.ItemProperties.HousesExchange FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="HousesExchange/Program.cs">
+    <Files>
+      <File FileName="HousesExchange/Program.cs" Line="270" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HousesExchange" expanded="True">
+            <Node name="HousesExchange" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HousesExchange PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
