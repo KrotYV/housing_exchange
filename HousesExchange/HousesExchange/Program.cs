@@ -288,7 +288,7 @@ namespace HouseExchange
             for (int i = 0; i < houses.Count; i++)
             {
                 House house = houses[i];
-                Console.WriteLine($"{i + 1}.{house.OwnerName} - {house.District} - {house.ID}");
+                Console.WriteLine($"{i + 1}.Ім'я: {house.OwnerName}. Район: {house.District}. Тип житла: {house.HouseType}.");
             }
 
             int choice = Show.Options(houses.Count);
